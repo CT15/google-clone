@@ -1,5 +1,5 @@
 # Google Clone
-Created to practise HTML and CSS
+Created to practise HTML and CSS things
 
 Pictures used are either mine or my friends'
 
